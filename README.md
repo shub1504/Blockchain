@@ -58,3 +58,67 @@ Solidity is a high-level programming language used to write smart contracts for 
 - Wrote a simple "HelloWorld" contract.
 - Deployed on Remix with injected Web3 (MetaMask integration).
 
+![solidity](https://github.com/user-attachments/assets/e0c9d030-a4f2-4461-842f-74ca63a65678)
+
+---
+
+## 4.  Hyperledger
+
+###  What is Hyperledger?
+Hyperledger is an open-source collaborative project for enterprise blockchain solutions, hosted by The Linux Foundation.
+
+### BASIC COMMANDS TO INSTALL Hyperledger Fabric
+
+1. Make sure you’ve already installed:
+
+2. Go
+
+3. Docker & Docker Compose
+
+4.  Curl
+
+5.  Node.js (for chaincode dev sometimes)
+
+# Step 1: Clone the fabric samples repo
+git clone https://github.com/hyperledger/fabric-samples.git
+
+# Step 2: Move into the directory
+cd fabric-samples
+
+# Step 3: Run the bootstrap script to download binaries, docker images, and samples
+curl -sSL https://bit.ly/HyperledgerFabricInstaller | bash -s
+
+# OR use the official bootstrap script (recommended)
+./scripts/bootstrap.sh
+
+# Step 4: Check if everything downloaded
+ls bin/
+
+
+### BASIC COMMANDS TO INSTALL Go (Golang)
+
+# Step 1: Download Go (replace version if needed)
+wget https://go.dev/dl/go1.21.0.linux-amd64.tar.gz
+
+# Step 2: Remove older Go version if any
+sudo rm -rf /usr/local/go
+
+# Step 3: Extract the tarball to /usr/local
+sudo tar -C /usr/local -xzf go1.21.0.linux-amd64.tar.gz
+
+# Step 4: Add Go to PATH (temporary)
+export PATH=$PATH:/usr/local/go/bin
+
+# (Optional) Add to ~/.profile or ~/.bashrc for permanent path
+echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.bashrc
+source ~/.bashrc
+
+# Step 5: Check if Go installed
+go version
+
+
+
+
+
+
+

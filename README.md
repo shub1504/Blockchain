@@ -116,6 +116,19 @@ source ~/.bashrc
 # Step 5: Check if Go installed
 go version
 
+![hyper](https://github.com/user-attachments/assets/f85797fd-e845-487f-b66c-d355f0d91411)
+
+![hyper2](https://github.com/user-attachments/assets/7feb5f4f-07ff-4a96-a7cd-0fbc349b2c96)
+
+![hyper3](https://github.com/user-attachments/assets/29948134-3f53-47f2-9605-a1be60708659)
+
+![hyper4](https://github.com/user-attachments/assets/9b972368-a01b-44fb-bbfd-9e864bace578)
+
+![hyper5](https://github.com/user-attachments/assets/73861b96-e296-4a87-976d-2d940687517c)
+
+![hyper6](https://github.com/user-attachments/assets/0c6bd72e-5393-4fad-b1bb-9eacc98ea974)
+
+
 
 
 

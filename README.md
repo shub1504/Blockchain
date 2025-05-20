@@ -128,6 +128,7 @@ go version
 
 ![hyper6](https://github.com/user-attachments/assets/0c6bd72e-5393-4fad-b1bb-9eacc98ea974)
 
+👉 [Click here to view all Blockchain Practicals](./Blockchain_Practicals.md)
 
 
 

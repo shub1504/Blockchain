@@ -2,6 +2,13 @@ This file contains all 6 practical assignments related to Ethereum smart contrac
 
 ### REMIX ID USED : 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
 
+### Table of Contents:
+- `Voting System`
+- `Student Record Management`
+- `Access Control Using Modifiers`
+- `Ether Value System (EVS)`
+- `Simple Auction`
+
 ##  1. `votingSystem.sol` – **Simple Voting System**
 
 ### Description:
